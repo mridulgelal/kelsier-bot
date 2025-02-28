@@ -2,6 +2,8 @@
 
 Kelsier is a  Discord bot built using discord.js that provides a variety of fun commands, including creating a short URL, fetching weather information, motivational quotes, jokes, and advice—all powered by free third-party APIs.
 
+![image](https://github.com/user-attachments/assets/6075b0f6-5c62-465f-862e-8d4378df0e6b)
+
 ## Features
 
 - **/weather** - Gets the current weather for a specified city.
@@ -34,4 +36,4 @@ TOKEN=your_discord_bot_token </br>
 CLIENT_ID=your_discord_application_client_id </br>
 OPENWEATHER_API_KEY=your_openweather_api_key
 
-![image](https://github.com/user-attachments/assets/6075b0f6-5c62-465f-862e-8d4378df0e6b)
+
