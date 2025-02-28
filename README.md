@@ -17,21 +17,13 @@ Kelsier is a  Discord bot built using discord.js that provides a variety of fun 
 - [node-fetch](https://www.npmjs.com/package/node-fetch) v2.7.0
 - [nodemon](https://nodemon.io/) v3.1.9 (for development)
 
+  
 ## Setup and Installation
 
-# .env
-TOKEN=your_discord_bot_token
-CLIENT_ID=your_discord_application_client_id
-OPENWEATHER_API_KEY=your_openweather_api_key
 
-```bash
-git clone https://github.com/mridulgelal/kelsier-bot
-cd kelsier-bot
-npm install
-
-
-```bash
-node commands.js
-
-```bash
-npm start
+  ```bash
+  git clone https://github.com/mridulgelal/kelsier-bot
+  cd kelsier-bot
+  npm install
+  node commands.js
+  npm start
